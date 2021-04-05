@@ -31,3 +31,27 @@
 <p><strong>INTRODUCTION</strong></p>
 <p>Milk Basket is a startup-based idea which is a platform for different section of the people of the society to gather for business and welfare. It will be a website and app base platform to conjugate people respective towards their interest in the agro based products. Our headline of the project shows that it is related to milk. It will actually cover milk related periphery. It will ease the doing of business in this certain section. As there is a 6-million-ton shortage in production of milk per year in Bangladesh, our goal would be to suffice it by accelerating the process with our platform.
 The intended audience would be the mass people who will be buying milk and domestic related products. The businesses who need tons of milk for their production, the farmers who need cattle feed and anyone who needs a vet for their pets and animals and lastly the investor who wants to invest in farms and share profit.</p>
+
+
+<br>
+
+<p><strong>PROPOSED FEATURES</strong></p>
+<p>Below are the tentitive features,</p>
+
+<ol>
+ 
+<li><p>There are many features to implement in this project. As it is a milk related platform and our goal is to increase the production level of milk so we have introduced several features over here like cow farm, normal user, bulk user, farm sharing, milk product, animal doctor, cow food seller.</p></li>
+  
+<li><p>In these features there would be some sub features to support the idea over here, like under the cow farm there would be sub features like level, rating, review, farm, photo, available time, price, providing area, about farm and location. It would create a profile for the cow farm owner. It will boost the confidence among buyers and one of the most important aspect of going digital is transparency which would meet its goal.</p></li>
+
+<li><p>The next feature would consist of normal user and bulk user. It would have some sub feature as well like rating, review, location, photo.</p></li>
+
+<li><p>One of the important features is going to be the farm sharing one where the investor can find their farm holders with low capitals and experience. By investing here, they can get the benefit as well like sharing profit. The main idea would be to enhance production so through this we can penetrate through the ground level as well. There will be some sub features like farm level, rating, review, location, farm size, farm photo, number of cows etc.</p></li>
+
+<li><p>Milk product is another feature for the user of this website from which he or she can order their expected product. The farms can put their dairy products for selling as well over here. There would be some feature like which farm product, product review, price and availability.</p></li>
+
+<li><p>Animal doctor would be another feature where it would have some sub feature to ensure the safety of the animals. It would have sub features like level, rating, review, photo, certified, experience, available time, service charge, service providing area etc.</p></li>
+
+<li><p>Cow food seller is another feature under which there would be some sub feature like level, rating, review, photo, food photo, food price, food expire date, food supply area etc.</p></li>
+
+</ol>
