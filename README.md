@@ -7,7 +7,7 @@
 <p align="center"><strong>Group No</strong>: 02</p>
 <p align="center"><strong>Spring 2021</strong></p>
 <p align="center"><strong>Project Name:</strong> Milk Basket</p>
-<p align="center"><strong>Course No</strong>: CSE 499 <strong>Sec</strong><strong>:</strong> 18</p>
+<p align="center"><strong>Course No</strong>: CSE 499A <strong>Sec</strong><strong>:</strong> 18</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Riaz Rahman Rafi</p>
