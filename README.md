@@ -14,11 +14,11 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1620590042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:riaz.rafi@northsouth.edu">riaz.rafi@northsouth.edu</a></p>
 <p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
-<p align="center"><strong>Name</strong><strong>:</strong> S M NIAZ MAHMUD</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>171 3079 042</p>
-<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:s.m.mahmud@northsouth.edu">s.m.mahmud@northsouth.edu</a></p>
+<p align="center"><strong>Name</strong><strong>:</strong> Md. Shirajul Islam Shadhin</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1620701042</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:shirajul.shadhin@northsouth.edu">shirajul.shadhin@northsouth.edu</a></p>
 <p align="center"><strong><u>Member 3</u></strong><u>:</u></p>
-<p align="center"><strong>Name</strong><strong>:</strong>Shahed Ahmed</p>
+<p align="center"><strong>Name</strong><strong>:</strong> Shahed Ahmed</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1420308642</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:shahed.ahmed@northsouth.edu">shahed.ahmed@northsouth.edu</a></p>
 <p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SP21-CSE499-18/Group-02">https://github.com/NSU-SP21-CSE499-18/Group-02</a></p>
