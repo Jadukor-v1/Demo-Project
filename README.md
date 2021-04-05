@@ -6,7 +6,7 @@
 <p align="center"><strong>Project Proposal</strong></p>
 <p align="center"><strong>Group No</strong>: 02</p>
 <p align="center"><strong>Spring 2021</strong></p>
-<p align="center"><strong>Project Name</strong>Milk Basket</p>
+<p align="center"><strong>Project Name:</strong> Milk Basket</p>
 <p align="center"><strong>Course No</strong>: CSE 499 <strong>Sec</strong><strong>:</strong> 18</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
@@ -17,7 +17,11 @@
 <p align="center"><strong>Name</strong><strong>:</strong> S M NIAZ MAHMUD</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>171 3079 042</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:s.m.mahmud@northsouth.edu">s.m.mahmud@northsouth.edu</a></p>
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SP21-CSE499-18/Group-04">https://github.com/NSU-SP21-CSE499-18/Group-04</a></p>
-<p align="center"><strong>Date Submitted</strong><strong>: </strong>TBD</p>
+<p align="center"><strong><u>Member 3</u></strong><u>:</u></p>
+<p align="center"><strong>Name</strong><strong>:</strong>Shahed Ahmed</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1420308642</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:shahed.ahmed@northsouth.edu">shahed.ahmed@northsouth.edu</a></p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SP21-CSE499-18/Group-02">https://github.com/NSU-SP21-CSE499-18/Group-02</a></p>
+<p align="center"><strong>Date Submitted</strong><strong>: </strong>10/03/21</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
