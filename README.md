@@ -55,3 +55,28 @@ The intended audience would be the mass people who will be buying milk and domes
 <li><p>Cow food seller is another feature under which there would be some sub feature like level, rating, review, photo, food photo, food price, food expire date, food supply area etc.</p></li>
 
 </ol>
+
+<br>
+
+<p><strong>TOOLS & TECHNOLOGY</strong></p>
+
+<p>For Website: HTML, CSS, JS, React, Node Js.</p>
+<p>For Mobile App: Dart, Flutter, Firebase.</p>
+
+<br>
+
+<p><strong>SOCIAL BENEFITS</strong></p>
+<ol>
+ <li><p>Making ease of doing business in this area by going digital.</p></li>
+ <li><p>We can change the socio-economic aspect of our society by adding the idea of farm sharing which can help in increasing the business</p></li>
+ <li><p>One of our important goal was to change the dynamics of production cycle of milk in our country. We can enhance the production and help our country making it rich.</p></li>
+</ol>
+
+<br>
+
+<p><strong>PLANS FOR MONETIZATION</strong></p>
+<p>We will mainly follow two types of monetization strategy,></p>
+
+<strong>Freemium:</strong> The freemium strategy is considered to be the most effective way to monetize this website and app. This website and app will be provided to the users as a freemium version, and it will be completely free to use. We are going to make the money by taking some commission from the farm sharing user from both sides. There will be advertisement as well.
+
+<strong>Premium:</strong> Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then.
